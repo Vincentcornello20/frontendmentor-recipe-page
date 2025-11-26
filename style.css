@@ -7,6 +7,7 @@
     --Brown-800: hsl(14, 45%, 36%);
     --Rose-800: hsl(332, 51%, 32%);
     --Rose-50: hsl(330, 100%, 98%);
+    --Blue: hsl(228, 45%, 44%);
     --font-heading: 'Young Serif', serif;
     --font-body: 'Outfit', sans-serif;
 }
@@ -130,5 +131,5 @@ section {
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%);
+    color: var(--Blue);
 }
